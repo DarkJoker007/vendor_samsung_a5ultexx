@@ -239,16 +239,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/a5ultexx/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/samsung/a5ultexx/proprietary/lib/libprotobuf-cpp-l1te.so:system/lib/libprotobuf-cpp-l1te.so \
-    #vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/audio_amplifier.msm8916.so:system/vendor/lib/hw/audio_amplifier.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecnativefeature.so:system/vendor/lib/libsecnativefeature.so \
     vendor/samsung/a5ultexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/a5ultexx/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/a5ultexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    #vendor/samsung/a5ultexx/proprietary/vendor/bin/hw/vendor.samsung.hardware.nfc@1.0-service:/system/vendor/bin/hw/vendor.samsung.hardware.nfc@1.0-service \
-    #vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.default.so:/system/vendor/lib/hw/nfc_nci.msm8916.so \
-    #vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/vendor.samsung.hardware.nfc@1.0-impl.so:/system/vendor/lib/hw/vendor.samsung.hardware.nfc@1.0-impl.so \
-    #vendor/samsung/a5ultexx/proprietary/vendor/lib/vendor.samsung.hardware.nfc@1.0.so:/system/vendor/lib/vendor.samsung.hardware.nfc@1.0.so \
-    #vendor/samsung/a5ultexx/proprietary/vendor/etc/nfc/sec_s3fwrn5_rfreg.bin:/system/vendor/etc/nfc/sec_s3fwrn5_rfreg.bin \
-    #vendor/samsung/a5ultexx/proprietary/vendor/firmware/nfc/sec_s3fwrn5_firmware.bin:/system/vendor/firmware/nfc/sec_s3fwrn5_firmware.bin
+    vendor/samsung/a5ultexx/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so
