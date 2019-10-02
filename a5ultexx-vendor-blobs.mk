@@ -26,7 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/bin/ssr_diag:system/bin/ssr_diag \
     vendor/samsung/a5ultexx/proprietary/bin/ssr_setup:system/bin/ssr_setup \
     vendor/samsung/a5ultexx/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
-    
     vendor/samsung/a5ultexx/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/samsung/a5ultexx/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/samsung/a5ultexx/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
@@ -36,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/etc/B05QL_s5k5e3yx_module_info.xml:system/etc/B05QL_s5k5e3yx_module_info.xml \
     vendor/samsung/a5ultexx/proprietary/etc/F13QS_imx135_module_info.xml:system/etc/F13QS_imx135_module_info.xml \
     vendor/samsung/a5ultexx/proprietary/etc/sec_s3fwrn5_rfreg.bin:system/etc/sec_s3fwrn5_rfreg.bin \
-    
     vendor/samsung/a5ultexx/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/a5ultexx/proprietary/lib/libchromatix_imx135_common.so:system/lib/libchromatix_imx135_common.so \
     vendor/samsung/a5ultexx/proprietary/lib/libchromatix_imx135_common_1080p_b.so:system/lib/libchromatix_imx135_common_1080p_b.so \
@@ -84,7 +82,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/lib/libalgobsx.so:system/lib/libalgobsx.so \
     vendor/samsung/a5ultexx/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
     vendor/samsung/a5ultexx/proprietary/lib/libtfa9895.so:system/lib/libtfa9895.so \
-    
     vendor/samsung/a5ultexx/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/samsung/a5ultexx/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/samsung/a5ultexx/proprietary/vendor/bin/radish:system/vendor/bin/radish \
@@ -92,16 +89,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/samsung/a5ultexx/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/samsung/a5ultexx/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
-    
     vendor/samsung/a5ultexx/proprietary/vendor/etc/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
     vendor/samsung/a5ultexx/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
     vendor/samsung/a5ultexx/proprietary/vendor/etc/permissions/qcnvitems.xml:system/vendor/etc/permissions/qcnvitems.xml \
     vendor/samsung/a5ultexx/proprietary/vendor/etc/permissions/qcrilhook.xml:system/vendor/etc/permissions/qcrilhook.xml \
-    
     vendor/samsung/a5ultexx/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin:system/vendor/firmware/sec_s3fwrn5_firmware.bin \
     vendor/samsung/a5ultexx/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
     vendor/samsung/a5ultexx/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
-    
     vendor/samsung/a5ultexx/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
@@ -110,20 +104,16 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/egl/libRBGLESv2_adreno.so:system/vendor/lib/egl/libRBGLESv2_adreno.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/egl/libRBGLESv1_CM_adreno.so:system/vendor/lib/egl/libRBGLESv1_CM_adreno.so \
-    
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/camera.vendor.msm8916.so:system/vendor/lib/hw/camera.vendor.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/sensors.vendor.msm8916.so:system/vendor/lib/hw/sensors.vendor.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.msm8916.so:/system/vendor/lib/hw/nfc_nci.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/audio_amplifier.msm8916.so:system/vendor/lib/hw/audio_amplifier.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so:system/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so \
-    
     vendor/samsung/a5ultexx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    
     vendor/samsung/a5ultexx/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
-    
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libactuator_dw9804_a7_camcorder.so:system/vendor/lib/libactuator_dw9804_a7_camcorder.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libactuator_dw9804_a7_camera.so:system/vendor/lib/libactuator_dw9804_a7_camera.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
