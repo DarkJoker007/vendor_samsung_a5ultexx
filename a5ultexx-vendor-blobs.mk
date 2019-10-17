@@ -16,7 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/camera.msm8916.so:system/vendor/lib/hw/camera.vendor.msm8916.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/camera.vendor.msm8916.so:system/vendor/lib/hw/camera.vendor.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libactuator_dw9804_a7_camcorder.so:system/vendor/lib/libactuator_dw9804_a7_camcorder.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libactuator_dw9804_a7_camera.so:system/vendor/lib/libactuator_dw9804_a7_camera.so \
@@ -212,7 +212,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/samsung/a5ultexx/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/sensors.msm8916.so:system/vendor/lib/hw/sensors.vendor.msm8916.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/sensors.vendor.msm8916.so:system/vendor/lib/hw/sensors.vendor.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/lib/libalgobsx.so:system/lib/libalgobsx.so \
     vendor/samsung/a5ultexx/proprietary/etc/sec_s3fwrn5_rfreg.bin:system/etc/sec_s3fwrn5_rfreg.bin \
     vendor/samsung/a5ultexx/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin:system/vendor/firmware/sec_s3fwrn5_firmware.bin \
@@ -241,14 +241,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/lib/libprotobuf-cpp-l1te.so:system/lib/libprotobuf-cpp-l1te.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/audio_amplifier.msm8916.so:system/vendor/lib/hw/audio_amplifier.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecnativefeature.so:system/vendor/lib/libsecnativefeature.so \
+    vendor/samsung/a5ultexx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/a5ultexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/a5ultexx/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/a5ultexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/a5ultexx/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/bin/hw/vendor.samsung.hardware.nfc@1.0-service:/system/vendor/bin/hw/vendor.samsung.hardware.nfc@1.0-service \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.default.so:/system/vendor/lib/hw/nfc_nci.msm8916.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/vendor.samsung.hardware.nfc@1.0-impl.so:/system/vendor/lib/hw/vendor.samsung.hardware.nfc@1.0-impl.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/vendor.samsung.hardware.nfc@1.0.so:/system/vendor/lib/vendor.samsung.hardware.nfc@1.0.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/etc/nfc/sec_s3fwrn5_rfreg.bin:/system/vendor/etc/nfc/sec_s3fwrn5_rfreg.bin \
-    vendor/samsung/a5ultexx/proprietary/vendor/firmware/nfc/sec_s3fwrn5_firmware.bin:/system/vendor/firmware/nfc/sec_s3fwrn5_firmware.bin
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.msm8916.so:/system/vendor/lib/hw/nfc_nci.msm8916.so \
