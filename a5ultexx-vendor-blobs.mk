@@ -250,9 +250,38 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/com.quicinc.cne.api@1.0.so:system/vendor/lib/com.quicinc.cne.api@1.0.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/com.quicinc.cne.constants@1.0.so:system/vendor/lib/com.quicinc.cne.constants@1.0.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvoice-svc.so:system/vendor/lib/libvoice-svc.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libimscamera_jni.so:system/vendor/lib/libimscamera_jni.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-imsdpl.so:system/vendor/lib/lib-imsdpl.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libimsmedia_jni.so:system/vendor/lib/libimsmedia_jni.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-imsqimf.so:system/vendor/lib/lib-imsqimf.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-imsrcscmclient.so:system/vendor/lib/lib-imsrcscmclient.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-ims-rcscmjni.so:system/vendor/lib/lib-ims-rcscmjni.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-imsrcscmservice.so:system/vendor/lib/lib-imsrcscmservice.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-imsrcscm.so:system/vendor/lib/lib-imsrcscm.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-imsrcs.so:system/vendor/lib/lib-imsrcs.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-imsSDP.so:system/vendor/lib/lib-imsSDP.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-imss.so:system/vendor/lib/lib-imss.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-imsvt.so:system/vendor/lib/lib-imsvt.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-imsxml.so:system/vendor/lib/lib-imsxml.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/etc/permissions/imscm.xml:system/vendor/etc/permissions/imscm.xml \
+    vendor/samsung/a5ultexx/proprietary/vendor/etc/permissions/ims.xml:system/vendor/etc/permissions/ims.xml \
+    vendor/samsung/a5ultexx/proprietary/vendor/etc/permissions/qti_permissions.xml:system/vendor/etc/permissions/qti_permissions.xml \
+    vendor/samsung/a5ultexx/proprietary/vendor/bin/imscmservice:system/vendor/bin/imscmservice \
+    vendor/samsung/a5ultexx/proprietary/vendor/bin/imsdatadaemon:system/vendor/bin/imsdatadaemon \
+    vendor/samsung/a5ultexx/proprietary/vendor/bin/imsqmidaemon:system/vendor/bin/imsqmidaemon \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/librcc.so:system/vendor/lib/librcc.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-rcsimssjni.so:system/vendor/lib/lib-rcsimssjni.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-rcsjni.so:system/vendor/lib/lib-rcsjni.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-rtpcommon.so:system/vendor/lib/lib-rtpcommon.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-rtpcore.so:system/vendor/lib/lib-rtpcore.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-rtpdaemoninterface.so:system/vendor/lib/lib-rtpdaemoninterface.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-rtpsl.so:system/vendor/lib/lib-rtpsl.so
 
 PRODUCT_PACKAGES += \
-     qcrilmsgtunnel \
-     shutdownlistener \
-     qcnvitems \
-     qcrilhook
+      ims \
+      imscmlibrary \
+      qcrilmsgtunnel \
+      shutdownlistener \
+      qcnvitems \
+      qcrilhook
