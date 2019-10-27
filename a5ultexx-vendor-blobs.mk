@@ -246,5 +246,33 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsmemlog.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsmemlog.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsystem_health_mon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsystem_health_mon.so \
     vendor/samsung/a5ultexx/proprietary/vendor/bin/efsks:$(TARGET_COPY_OUT_VENDOR)/bin/efskd \
-    vendor/samsung/a5ultexx/proprietary/vendor/bin/qcks:$(TARGET_COPY_OUT_VENDOR)/bin/qcks
+    vendor/samsung/a5ultexx/proprietary/vendor/bin/qcks:$(TARGET_COPY_OUT_VENDOR)/bin/qcks \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libqmi_client_helper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmi_client_helper.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libqmi_csvt_srvc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmi_csvt_srvc.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libuicc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libuicc.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_bsp_qcci.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_bsp_qcci.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_common_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_common_core.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_common_idl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_common_idl.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_common_iface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_common_iface.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_dmi_qcci.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_dmi_qcci.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_gnss_qcci.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_gnss_qcci.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_ims_qcci.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_ims_qcci.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_nv_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_nv_core.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_nv_idl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_nv_idl.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_nv_iface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_nv_iface.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_resim_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_resim_core.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_resim_idl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_resim_idl.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_resim_iface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_resim_iface.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libvss_sar_qcci.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_sar_qcci.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libcneapiclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcneapiclient.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/etc/permissions/qcrilhook.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/qcrilhook.xml \
+    vendor/samsung/a5ultexx/proprietary/vendor/etc/permissions/qcnvitems.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/qcnvitems.xml
 
+PRODUCT_PACKAGES += \
+    qcrilmsgtunnel \
+    qcnvitems \
+    qcrilhook \
+    libmm-abl \
+    libmm-abl \
+    libtime_genoff \
+    TimeService
