@@ -108,7 +108,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/sensors.vendor.msm8916.so:system/vendor/lib/hw/sensors.vendor.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.msm8916.so:/system/vendor/lib/hw/nfc_nci.msm8916.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/audio_amplifier.msm8916.so:system/vendor/lib/hw/audio_amplifier.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so:system/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
