@@ -29,7 +29,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>vendor_samsung_a5ultexx/flp.default.so at 9.x · Soft-Bullet/vendor_samsung_a5ultexx · GitHub</title>
+  <title>vendor_samsung_a5ultexx/nfc_nci.msm8916.so at 9.x · Soft-Bullet/vendor_samsung_a5ultexx · GitHub</title>
     <meta name="description" content="Vendor Tree for Samsung Galaxy A5 #LTE. Contribute to Soft-Bullet/vendor_samsung_a5ultexx development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -42,7 +42,7 @@
   
   
 
-    <meta name="request-id" content="A2DC:3075:11DCC5:218629:5E154A1B" data-pjax-transient>
+    <meta name="request-id" content="A2D0:6566:117418:20DD37:5E1549B2" data-pjax-transient>
 
 
 
@@ -54,7 +54,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="A2DC:3075:11DCC5:218629:5E154A1B" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="3439128264224098843" />
+    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="A2D0:6566:117418:20DD37:5E1549B2" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7671557490614815154" />
 
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -74,11 +74,11 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="YjdlYWRjMzVkYmI4MWUzNWI1ODFhMDY1NWMxNzRmYTQyMDM0MmRjNWU1ZWNlYmFmMmZiZGFjYmI5MTQyMmE0Nnx7InJlbW90ZV9hZGRyZXNzIjoiMTA0LjE1NC4xNDEuNjIiLCJyZXF1ZXN0X2lkIjoiQTJEQzozMDc1OjExRENDNToyMTg2Mjk6NUUxNTRBMUIiLCJ0aW1lc3RhbXAiOjE1Nzg0NTM1MzEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="NWQzZGFjOWVkMzI2Y2U5MjRhMDk0M2QxMWI5MmI4MzgyMDkwZTE5YjVjODcwNDU3NGM0MzIzNWQ1MzFkYWFlYXx7InJlbW90ZV9hZGRyZXNzIjoiMTA0LjE1NC4xNDEuNjIiLCJyZXF1ZXN0X2lkIjoiQTJEMDo2NTY2OjExNzQxODoyMEREMzc6NUUxNTQ5QjIiLCJ0aW1lc3RhbXAiOjE1Nzg0NTM0MjYsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS">
 
-    <meta name="html-safe-nonce" content="2fc82568c60943df092a16e186e9ffa0c561ee0f">
+    <meta name="html-safe-nonce" content="e6955cfdc5daf9320c7d1fc137784187f7c9cbfe">
 
   <meta http-equiv="x-pjax-version" content="7513e5d3638e8238c1fed440d0ec8d6d">
   
@@ -90,7 +90,7 @@
   <meta name="octolytics-dimension-user_id" content="40681532" /><meta name="octolytics-dimension-user_login" content="Soft-Bullet" /><meta name="octolytics-dimension-repository_id" content="200344282" /><meta name="octolytics-dimension-repository_nwo" content="Soft-Bullet/vendor_samsung_a5ultexx" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="200344282" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Soft-Bullet/vendor_samsung_a5ultexx" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/flp.default.so" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -144,7 +144,7 @@
         <div class="d-flex flex-items-center">
             <a href="/join?source=header-repo"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2DC:3075:11DCC5:218629:5E154A1B&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/flp.default.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3f68495561776fe005d1b3fbbe16d0c3f0eb5a2a5217b4ca97c94347a6e0046b"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2D0:6566:117418:20DD37:5E1549B2&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="14b86f32782e2628d6057e4ff7d17bf910d6aaf5d44b9730e5b5c8c2f261d336"
               data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
               Sign&nbsp;up
             </a>
@@ -284,7 +284,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=/0jxRJetO8fHDx1EFdXipBtLQ1mTL/U2usbDiOU4nbbn5KhLvKVSHVTVz4bGP3UsayHSPi9NLKq1k4PV9ndEdg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=wy0MtCmOtH9a+IGK0DMv7rGPObYfw6esGQr4bd7duHRht9tZCQhoWSaaxryQGr5o1UHDcixxLjdUy3EEiHGdpA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -409,15 +409,15 @@
 
           </div>
 
-        <a href="/login?return_to=%2FSoft-Bullet%2Fvendor_samsung_a5ultexx%2Fblob%2F9.x%2Fproprietary%2Fvendor%2Flib%2Fhw%2Fflp.default.so"
+        <a href="/login?return_to=%2FSoft-Bullet%2Fvendor_samsung_a5ultexx%2Fblob%2F9.x%2Fproprietary%2Fvendor%2Flib%2Fhw%2Fnfc_nci.msm8916.so"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2DC:3075:11DCC5:218629:5E154A1B&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/flp.default.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="483dfe5c8bf721df319d5effc038431bc91652c1ca0e0068d5518d11fefbf46b"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2D0:6566:117418:20DD37:5E1549B2&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="811f6f045698104e24cdb3f5213bdef70fae8d2b2d556ff03f636e1e7871e224"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?source=header-repo&amp;source_repo=Soft-Bullet%2Fvendor_samsung_a5ultexx"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2DC:3075:11DCC5:218629:5E154A1B&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/flp.default.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="483dfe5c8bf721df319d5effc038431bc91652c1ca0e0068d5518d11fefbf46b"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2D0:6566:117418:20DD37:5E1549B2&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="811f6f045698104e24cdb3f5213bdef70fae8d2b2d556ff03f636e1e7871e224"
             data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
             Sign&nbsp;up
           </a>
@@ -481,7 +481,7 @@
 
   <li>
     
-  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2DC:3075:11DCC5:218629:5E154A1B&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/flp.default.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4333e87b07eee3e3987334738196bd249af92cc7c8a0875dcd5c81defb5dd2e8" href="/login?return_to=%2FSoft-Bullet%2Fvendor_samsung_a5ultexx">
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2D0:6566:117418:20DD37:5E1549B2&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="707c5c8ffd6a3d1637cd36e60d373a688a036047e99089c4c53170cf38e324ef" href="/login?return_to=%2FSoft-Bullet%2Fvendor_samsung_a5ultexx">
     <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
     Watch
 </a>    <a class="social-count" href="/Soft-Bullet/vendor_samsung_a5ultexx/watchers"
@@ -492,7 +492,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:200344282,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2DC:3075:11DCC5:218629:5E154A1B&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/flp.default.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e2e06e7e0fc60626389b3cb769bd471f3caecf88a759a0273a99fa161dc7d6a8" href="/login?return_to=%2FSoft-Bullet%2Fvendor_samsung_a5ultexx">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:200344282,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2D0:6566:117418:20DD37:5E1549B2&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d6f436998ab82a0e293589efa45aff528ad247b37909ea2c302c460adaef58ed" href="/login?return_to=%2FSoft-Bullet%2Fvendor_samsung_a5ultexx">
       <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
       Star
@@ -505,7 +505,7 @@
   </li>
 
   <li>
-      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:200344282,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2DC:3075:11DCC5:218629:5E154A1B&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/flp.default.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="18bfc0ed4debea1912aa0b2857f1261b20de35c37ddf0effcbb0bb332044c9ce" href="/login?return_to=%2FSoft-Bullet%2Fvendor_samsung_a5ultexx">
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:200344282,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2D0:6566:117418:20DD37:5E1549B2&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b995123b85c2c5b8c9ef9924786192919e31b08328630948eb26a83cae3367d0" href="/login?return_to=%2FSoft-Bullet%2Fvendor_samsung_a5ultexx">
         <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
         Fork
 </a>
@@ -623,19 +623,19 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Soft-Bullet/vendor_samsung_a5ultexx/blob/d7f91c646b938c982644ab80ce6e39af3119cb83/proprietary/vendor/lib/hw/flp.default.so">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Soft-Bullet/vendor_samsung_a5ultexx/blob/d7f91c646b938c982644ab80ce6e39af3119cb83/proprietary/vendor/lib/hw/nfc_nci.msm8916.so">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:3473404d9ba205b30edc78678999ae6b -->
+    <!-- blob contrib key: blob_contributors:v21:7b92d3c3b70fc36f98966c1e7b8d4d33 -->
           <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="PFL1RVf42UKhghPpIEtL49xzo7QIaPlhDfJUpvVykHH1vB9KnuOV5urnyZIRk3bBp97oBn+idZ03ZiqjOhzuhg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="OYwZIe0+uisnI1WqGFKY9IRz48FZnr9HvhhU5wrX3X4LG7KfE0lGWqP3S70hSZ40UFEtjaGTArIA3A/anS4UDw==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
 </form>          <h3 class="pt-2">Join GitHub today</h3>
           <p class="col-6 mx-auto">GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.</p>
-          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2DC:3075:11DCC5:218629:5E154A1B&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/flp.default.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e66f176b842acacbd5124e7438b474096f1f4eb232b6d9332aeb0afba7676909" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=Soft-Bullet%2Fvendor_samsung_a5ultexx">Sign up</a>
+          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A2D0:6566:117418:20DD37:5E1549B2&quot;,&quot;originating_url&quot;:&quot;https://github.com/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="344bf67aaf31ffb5a9ae628e2dc2ea26fb6e97d4031a691f1c5b8756a2800eb8" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=Soft-Bullet%2Fvendor_samsung_a5ultexx">Sign up</a>
         </div>
       </div>
     </div>
@@ -652,7 +652,7 @@
     <span class="css-truncate-target" data-menu-button>9.x</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/Soft-Bullet/vendor_samsung_a5ultexx/refs/9.x/proprietary/vendor/lib/hw/flp.default.so?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/Soft-Bullet/vendor_samsung_a5ultexx/refs/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -666,13 +666,13 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="proprietary/vendor/lib/hw/flp.default.so" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="proprietary/vendor/lib/hw/nfc_nci.msm8916.so" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/Soft-Bullet/vendor_samsung_a5ultexx"><span>vendor_samsung_a5ultexx</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Soft-Bullet/vendor_samsung_a5ultexx/tree/9.x/proprietary"><span>proprietary</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Soft-Bullet/vendor_samsung_a5ultexx/tree/9.x/proprietary/vendor"><span>vendor</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Soft-Bullet/vendor_samsung_a5ultexx/tree/9.x/proprietary/vendor/lib"><span>lib</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Soft-Bullet/vendor_samsung_a5ultexx/tree/9.x/proprietary/vendor/lib/hw"><span>hw</span></a></span><span class="separator">/</span><strong class="final-path">flp.default.so</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/Soft-Bullet/vendor_samsung_a5ultexx"><span>vendor_samsung_a5ultexx</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Soft-Bullet/vendor_samsung_a5ultexx/tree/9.x/proprietary"><span>proprietary</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Soft-Bullet/vendor_samsung_a5ultexx/tree/9.x/proprietary/vendor"><span>vendor</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Soft-Bullet/vendor_samsung_a5ultexx/tree/9.x/proprietary/vendor/lib"><span>lib</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Soft-Bullet/vendor_samsung_a5ultexx/tree/9.x/proprietary/vendor/lib/hw"><span>hw</span></a></span><span class="separator">/</span><strong class="final-path">nfc_nci.msm8916.so</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -682,7 +682,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="proprietary/vendor/lib/hw/flp.default.so" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="proprietary/vendor/lib/hw/nfc_nci.msm8916.so" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -692,7 +692,7 @@
 
 
 
-    <include-fragment src="/Soft-Bullet/vendor_samsung_a5ultexx/contributors/9.x/proprietary/vendor/lib/hw/flp.default.so" class="Box Box--condensed commit-loader">
+    <include-fragment src="/Soft-Bullet/vendor_samsung_a5ultexx/contributors/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so" class="Box Box--condensed commit-loader">
       <div class="Box-body bg-blue-light f6">
         Fetching contributors&hellip;
       </div>
@@ -711,20 +711,22 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-    29.7 KB
+      <span class="file-mode" title="File mode">executable file</span>
+      <span class="file-info-divider"></span>
+    69.6 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Soft-Bullet/vendor_samsung_a5ultexx/raw/9.x/proprietary/vendor/lib/hw/flp.default.so">Download</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Soft-Bullet/vendor_samsung_a5ultexx/commits/9.x/proprietary/vendor/lib/hw/flp.default.so">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Soft-Bullet/vendor_samsung_a5ultexx/raw/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so">Download</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Soft-Bullet/vendor_samsung_a5ultexx/commits/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so">History</a>
     </div>
 
 
     <div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Soft-Bullet/vendor_samsung_a5ultexx/delete/9.x/proprietary/vendor/lib/hw/flp.default.so" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="uprchg2yMILRJ/8/qmohz+V8TfMNrMBgQuGnbfH9alvXn4E88wYZfcOKHJVnqkhnjBaUHNZ1l4b7Jx41B+gMEA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Soft-Bullet/vendor_samsung_a5ultexx/delete/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SA9WWK5aRRfeKbv2kkcXy95OdIlXwaIZf+SDQClyLJVSOlB8WEC2qgBVisc9mdsRJ3ge+E5EGGmBXCpunX0TYw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -740,7 +742,7 @@
 
   <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text ">
       <div class="text-center p-3">
-          <a href="/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/flp.default.so?raw=true">View raw</a>
+          <a href="/Soft-Bullet/vendor_samsung_a5ultexx/blob/9.x/proprietary/vendor/lib/hw/nfc_nci.msm8916.so?raw=true">View raw</a>
       </div>
   </div>
 
