@@ -124,7 +124,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/samsung/a5ultexx/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/samsung/a5ultexx/proprietary/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/samsung/a5ultexx/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so:system/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so \
@@ -166,11 +166,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecureui.so:system/vendor/lib/libsecureui.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecureui_svcsock.so:system/vendor/lib/libsecureui_svcsock.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecureuisvc_jni.so:system/vendor/lib/libsecureuisvc_jni.so \
-    vendor/samsung/a5ultexx/proprietary/bin/netmgrd:system/bin/netmgrd \
-    vendor/samsung/a5ultexx/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/samsung/a5ultexx/proprietary/bin/netmgrd:system/vendor/bin/netmgrd \
+    vendor/samsung/a5ultexx/proprietary/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/samsung/a5ultexx/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/samsung/a5ultexx/proprietary/bin/radish:system/bin/radish \
-    vendor/samsung/a5ultexx/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/samsung/a5ultexx/proprietary/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
@@ -238,9 +238,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/samsung/a5ultexx/proprietary/lib/libprotobuf-cpp-l1te.so:system/lib/libprotobuf-cpp-l1te.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecnativefeature.so:system/vendor/lib/libsecnativefeature.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.msm8916.so:/system/vendor/lib/hw/nfc_nci.msm8916.so
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.msm8916.so:/system/vendor/lib/hw/nfc_nci.msm8916.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libdsi_netctrl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdsi_netctrl.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libqdi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqdi.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libqdp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqdp.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libril-qc-qmi-1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libril-qc-qmi-1 \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libsmemlog.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsmemlog.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libsystem_health_mon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsystem_health_mon.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/bin/efsks:$(TARGET_COPY_OUT_VENDOR)/bin/efskd \
+    vendor/samsung/a5ultexx/proprietary/vendor/bin/qcks:$(TARGET_COPY_OUT_VENDOR)/bin/qcks
+
