@@ -226,7 +226,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
-     vendor/samsung/a5ultexx/proprietary/vendor/lib/liblqe.so:system/vendor/lib/liblqe.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/liblqe.so:system/vendor/lib/liblqe.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
@@ -248,7 +248,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/com.quicinc.cne.api@1.0.so:system/vendor/lib/com.quicinc.cne.api@1.0.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/com.quicinc.cne.constants@1.0.so:system/vendor/lib/com.quicinc.cne.constants@1.0.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/com.quicinc.cne.constants@1.0.so:system/vendor/lib/com.quicinc.cne.constants@1.0.so
 
 PRODUCT_PACKAGES += \
      qcrilmsgtunnel \
