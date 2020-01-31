@@ -236,6 +236,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.msm8916.so:/system/vendor/lib/hw/nfc_nci.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/vendor/etc/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
     vendor/samsung/a5ultexx/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
-    vendor/samsung/a5ultexx/proprietary/vendor/etc/data/qmi_config.xml:system/vendor/etc/data/qmi_config.xml
+    vendor/samsung/a5ultexx/proprietary/vendor/etc/data/qmi_config.xml:system/vendor/etc/data/qmi_config.xml \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so
