@@ -124,7 +124,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/samsung/a5ultexx/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/samsung/a5ultexx/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/samsung/a5ultexx/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so:system/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so \
@@ -166,10 +166,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecureui.so:system/vendor/lib/libsecureui.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecureui_svcsock.so:system/vendor/lib/libsecureui_svcsock.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecureuisvc_jni.so:system/vendor/lib/libsecureuisvc_jni.so \
-    vendor/samsung/a5ultexx/proprietary/bin/netmgrd:system/bin/netmgrd \
-    vendor/samsung/a5ultexx/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/samsung/a5ultexx/proprietary/bin/qmiproxy:system/bin/qmiproxy \
-    vendor/samsung/a5ultexx/proprietary/bin/radish:system/bin/radish \
+    vendor/samsung/a5ultexx/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
+    vendor/samsung/a5ultexx/proprietary/vendor/bin/radish:system/vendor/bin/radish \
     vendor/samsung/a5ultexx/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
@@ -177,11 +175,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libcordon.so:system/lib/libcordon.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
-    vendor/samsung/a5ultexx/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
-    vendor/samsung/a5ultexx/proprietary/etc/plmn_delta.bin:system/etc/plmn_delta.bin \
     vendor/samsung/a5ultexx/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
@@ -235,12 +228,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libaptX_encoder.so:system/vendor/lib/libaptX_encoder.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libaptXHD_encoder.so:system/vendor/lib/libaptXHD_encoder.so \
     vendor/samsung/a5ultexx/proprietary/lib/libatparser.so:system/lib/libatparser.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libstlport.so:system/lib/libstlport.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libprotobuf-cpp-l1te.so:system/lib/libprotobuf-cpp-l1te.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libsec-ril-dsds.so:system/vendor/lib/libsec-ril-dsds.so \
     vendor/samsung/a5ultexx/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.msm8916.so:/system/vendor/lib/hw/nfc_nci.msm8916.so
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.msm8916.so:/system/vendor/lib/hw/nfc_nci.msm8916.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/etc/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
+    vendor/samsung/a5ultexx/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
+    vendor/samsung/a5ultexx/proprietary/vendor/etc/data/qmi_config.xml:system/vendor/etc/data/qmi_config.xml
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
+    vendor/samsung/a5ultexx/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so
