@@ -106,10 +106,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/lib/libawb_algo_rear_al.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libawb_algo_rear_al.so \
     vendor/samsung/a5ultexx/proprietary/lib/libawb_algo_front_al.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libawb_algo_front_al.so \
     vendor/samsung/a5ultexx/proprietary/lib/libaec_algo_rear.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaec_algo_rear.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/etc/firmware/cpp_firmware_v1_1_1.fw:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/samsung/a5ultexx/proprietary/vendor/etc/firmware/cpp_firmware_v1_1_6.fw:$(TARGET_COPY_OUT_VENDOR)//etc/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/samsung/a5ultexx/proprietary/vendor/etc/firmware/cpp_firmware_v1_2_0.fw:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/samsung/a5ultexx/proprietary/vendor/etc/firmware/cpp_firmware_v1_4_0.fw:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/cpp_firmware_v1_4_0.fw \
+    vendor/samsung/a5ultexx/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:$(TARGET_COPY_OUT_VENDOR)firmware/cpp_firmware_v1_1_1.fw \
+    vendor/samsung/a5ultexx/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/samsung/a5ultexx/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/samsung/a5ultexx/proprietary/vendor/firmware/cpp_firmware_v1_4_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_4_0.fw \
     vendor/samsung/a5ultexx/proprietary/vendor/etc/B05QL_s5k5e3yx_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/B05QL_s5k5e3yx_module_info.xml \
     vendor/samsung/a5ultexx/proprietary/vendor/etc/F13QS_imx135_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/F13QS_imx135_module_info.xml \
     vendor/samsung/a5ultexx/proprietary/vendor/bin/qseecomd:$(TARGET_COPY_OUT_VENDOR)/bin/qseecomd \
@@ -134,8 +134,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/liblocationservice.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblocationservice.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libulp2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libulp2.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libscale.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscale.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/etc/firmware/a300_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/a300_pfp.fw \
-    vendor/samsung/a5ultexx/proprietary/vendor/etc/firmware/a300_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/a300_pm4.fw \
+    vendor/samsung/a5ultexx/proprietary/vendor/firmware/a300_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a300_pfp.fw \
+    vendor/samsung/a5ultexx/proprietary/vendor/firmware/a300_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a300_pm4.fw \
     vendor/samsung/a5ultexx/proprietary/vendor/firmware/a330_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a330_pfp.fw \
     vendor/samsung/a5ultexx/proprietary/vendor/firmware/a330_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a330_pm4.fw \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libOmxVdecHevc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxVdecHevc.so \
@@ -160,7 +160,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libqmi_encdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmi_encdec.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libqmiservices.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmiservices.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libqmi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmi.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/lib-sec-disp.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib-sec-disp.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libSecureUILib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSecureUILib.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libStDrvInt.so:$(TARGET_COPY_OUT_VENDOR)/lib/libStDrvInt.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecureui.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsecureui.so \
