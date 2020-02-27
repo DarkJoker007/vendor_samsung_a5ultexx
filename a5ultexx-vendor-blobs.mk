@@ -240,6 +240,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecnativefeature.so:system/vendor/lib/libsecnativefeature.so \
     vendor/samsung/a5ultexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/a5ultexx/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/a5ultexx/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/nfc_nci.msm8916.so:/system/vendor/lib/hw/nfc_nci.msm8916.so
